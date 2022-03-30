@@ -1,10 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:800');
 
 :root {
-    --bgColor: #223344;
+    --bgColor: #000000;
     --bgColor2: #090a0f;
     --accentColor: #E6E6E6;
-    --font: 'Karla', sans-serif;
+    --font: 'Open Sans', Impact;
+    text-transform: uppercase;
     --delay: .3s;
 }
 
